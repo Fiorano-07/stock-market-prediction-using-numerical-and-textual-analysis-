@@ -1,34 +1,8 @@
 # stock-market-prediction-using-numerical-and-textual-analysis-
 
-Predict stock market trends effectively with our hybrid model that integrates numerical analysis of historical stock prices and sentimental analysis of news headlines. Leveraging advanced machine learning techniques, our approach ensures precise forecasting by considering both quantitative and qualitative factors. This model provides a comprehensive understanding of market dynamics, enhancing predictive accuracy. By analyzing numerical patterns and extracting insights from textual data, it empowers informed investment decisions. To replicate and explore, download the dataset 'india-news-headlines.csv' from here. Implement our strategy to gain valuable insights for investors and traders.
+#Welcome to our Stock Market Prediction Hybrid Model repository! This project combines numerical analysis of historical stock prices with sentimental analysis of news headlines to provide a comprehensive approach to stock market trend forecasting. Our hybrid model utilizes advanced machine learning techniques, integrating both quantitative and qualitative factors for precise and informed predictions.
 
-Getting Started
-Clone the repository:
+# Project Details
+Hybrid Model Approach: Our model combines numerical patterns from historical stock prices with insights extracted from textual data to enhance predictive accuracy.
 
-bash
-Copy code
-git clone https://github.com/your-username/your-repo.git
-Navigate to the project folder:
-
-bash
-Copy code
-cd your-repo
-Download the dataset:
-
-bash
-Copy code
-wget https://dataverse.harvard.edu/api/access/datafile/:persistentId?persistentId=doi:10.7910/DVN/DPQMQH
-Install the required dependencies:
-
-bash
-Copy code
-pip install -r requirements.txt
-Run the model:
-
-bash
-Copy code
-python main.py
-Feel free to customize and experiment with the model for your insights!
-
-Acknowledgments
-Dataset Source: Harvard Dataverse
+Machine Learning Techniques: Leveraging advanced machine learning techniques, our approach ensures a deep understanding of market dynamics for informed investment decisions.
